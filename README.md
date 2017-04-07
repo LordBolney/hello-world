@@ -1,2 +1,3 @@
 # hello-world
-Tutorial example
+
+Learning Python on the Raspberry Pi
